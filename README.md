@@ -23,8 +23,14 @@ for node and watchman-- on a mac with [homebrew](http://brew.sh/) installed, you
 ```
 git clone https://github.com/medeanfinance/rn-fastlink-demo
 cd rn-fastlink-demo
-yarn setup-launch
+yarn setup
 ```
+
+this should launch a simulator automatically.
+
+**note:**
+
+before submitting the fastlink inputs form, please press `ctrl D` (or `cmd D` on a mac) and make sure you are debugging JS remotely, as this is the only way you can view the output logs.
 
 ## resources
 
