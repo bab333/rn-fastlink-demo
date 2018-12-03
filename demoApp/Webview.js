@@ -63,7 +63,7 @@ export default class FastlinkWebView extends Component<Props> {
 
         <Text
           style={styles.message}>
-          Please open your Chrome console (in the ReactNative debugger tab, which should have launched automatically) to see output logs.
+          Please open your browser console (in the ReactNative debugger tab, which should have launched automatically) to see output logs.
         </Text>
 
         <WebView
