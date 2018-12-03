@@ -6,6 +6,10 @@
 
 ## prerequisites
 
+install [xcode](https://developer.apple.com/xcode).
+
+**note:** xcode version 9.4 is highly recommended. there may be fatal bugs if using xcode 10.
+
 install [nodejs](https://nodejs.org/en/download/).
 
 install [watchman](https://facebook.github.io/watchman/).
